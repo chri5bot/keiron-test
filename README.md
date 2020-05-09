@@ -16,6 +16,6 @@ Test, usando lerna para el manejo de proyectos en JavaScript, api con node, web 
   
 6. ejecutar **npm run dev:web** desde la raiz del proyecto para levantar el web
 
-7. acceder al usuario con rol admin **username: christian** **password: asd**
+7. acceder al usuario con rol admin **username: christian** y **password: asd**
    
-8. acceder al usuario con rol user **username: juan** **password: asd**
+8. acceder al usuario con rol user **username: juan** y **password: asd**
