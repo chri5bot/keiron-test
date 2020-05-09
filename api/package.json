@@ -1,0 +1,22 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "dev": "backpack",
+        "build": "backpack build",
+        "start": "node ./build/main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Christian Torres",
+    "license": "ISC",
+    "dependencies": {
+        "backpack-core": "^0.8.4",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "express-session": "^1.17.1",
+        "mysql": "^2.18.1"
+    }
+}
