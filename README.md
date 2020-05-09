@@ -19,3 +19,5 @@ Test, usando lerna para el manejo de proyectos en JavaScript, api con node, web 
 7. acceder al usuario con rol admin **username: christian** y **password: asd**
    
 8. acceder al usuario con rol user **username: juan** y **password: asd**
+
+**pd: se necesita usar dos terminales diferentes, una para levantar api y otra para levantar web**
