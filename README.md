@@ -1,8 +1,8 @@
-# Título
+# Title
 
 Test, usando lerna para el manejo de proyectos en JavaScript, api con node, web con reactjs
 
-## Pasos
+## Steps
 
 1. en el archivo **initdb.sql** que esta en la raiz del proyecto copiar y pegar el script de la base de datos
 
